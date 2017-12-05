@@ -92,6 +92,7 @@ public class Main extends JavaPlugin {
 				sender.sendMessage(coloredPrefix + ChatColor.RED + "Reloaded!");
 				
 				return true;
+				// I love how this is the only one of my plugins that can reload their config ;D
 				
 			}
 			else {
